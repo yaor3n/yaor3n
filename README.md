@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**yaor3n/yaor3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yao Ren, a Computer Science student majoring in Cybersecurity, I also hold a Software Engineering Diploma from [APU](https://www.apu.edu.my/about-apu)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### About me
+- Learning pentesting
+- I play some guitar
+- I like old ThinkPads and retro tech  
+- Learning C & C++
+
+---
+
+### Find me on
+- [LinkedIn](https://www.linkedin.com/in/loke-yao-ren)  
